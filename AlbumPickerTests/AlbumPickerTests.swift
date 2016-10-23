@@ -2,7 +2,7 @@
 //  AlbumPickerTests.swift
 //  AlbumPickerTests
 //
-//  Created by Yulian Simeonov on 4/1/15.
+//  Created by Yulian on 4/1/15.
 //  Copyright (c) 2015 YulianMobile. All rights reserved.
 //
 
